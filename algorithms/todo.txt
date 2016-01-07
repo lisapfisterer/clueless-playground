@@ -1,0 +1,4 @@
+Eclipse Workspace for algorithms
+- Quicksort
+- Mergesort
+- ...

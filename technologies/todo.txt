@@ -1,0 +1,4 @@
+Tech examples
+- AngularJS - good structure
+- Maven project
+- REST interface
